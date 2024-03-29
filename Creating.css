@@ -1,0 +1,25 @@
+body{
+    background-color: dimgrey;
+}
+h1{
+    color: aqua;
+    text-align: center;
+    text-shadow: -1px 1px 1px #000;
+}
+h2{
+    color: blueviolet;
+    text-shadow: -1px 1px 1px #000;
+}
+p{
+    width: 600px;
+}
+strong{
+    width: 500px;
+    color: burlywood;
+    text-shadow: -1px 1px 1px #000;
+    margin: 0px;
+}
+em{
+    width: 600px;
+    margin: 1%;
+}

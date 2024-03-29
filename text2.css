@@ -1,0 +1,48 @@
+body{
+    background-color: darkred;
+    margin: 3%;
+}
+h1{
+    color: black;
+    text-shadow: -1px 1px 1px #000;
+}
+li{
+    color: azure;
+}
+strong{
+    color: orange;
+    text-shadow: -3px 3px 3px #000;
+}
+main{
+    background-color: #000000;
+    width: 700px;
+    margin: 5%;
+    border: 2px solid #00ffff;
+    box-shadow: 10px 10px 10px ;
+    border-radius: 10px 10px 10px ;
+}
+h1{
+    color: rgb(0, 0, 0);
+    text-shadow: -2px 2px 2px #00ffff;
+}
+
+h2{
+    color: #ff5100;
+    text-shadow: -3px 3px 3px #000;
+}
+h3{
+    color: #00ffff;
+    text-shadow: -2px 2px 2px #000;
+}
+h4{
+    color: darkorchid;
+    text-shadow: -2px 2px 2px #000;
+}
+h5{
+    color: greenyellow;
+    text-shadow: -2px 2px 2px #000;
+}
+h6{
+    text-shadow: -2px 2px 2px #000;
+    color: darkslategray;
+}
