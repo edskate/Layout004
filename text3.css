@@ -1,0 +1,43 @@
+body{
+    background-color: crimson;
+}
+h1{
+    color: antiquewhite;
+}
+h2{
+    color: aliceblue;
+}
+p{
+    color: antiquewhite;
+}
+th{
+    color: aliceblue;
+}
+td{
+    color: aliceblue;
+}
+table{
+    border: 2px solid;
+    border-radius: 10px 10px 10px #80ffff;
+
+}
+section{
+    background-color: black;
+    border: 3px solid #8080ff;
+    text-align: center;
+    margin: 10%;
+
+}
+li{
+    font-size: 30px;
+    color: chartreuse;
+    text-shadow: 1px 2px 3px #000;
+    border: 3px solid #80ffff;
+
+
+}
+ul{
+    border: 3px solid;
+    width: 350px;
+    background-color: #000000;
+}

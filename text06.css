@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+}
+h1{
+    color: aqua;
+    text-shadow: -1px 1px 1px yellow;
+}
+h2{
+    color: red;
+}
+h3{
+    color: crimson;
+    text-shadow: -1px 2px 3px #000;
+    font-size: 20px;
+    margin: 5%;
+}
+p{
+    color: antiquewhite;
+}
+em {
+    color: yellow;
+    text-shadow: -1px 1px 1px #000;
+    margin: 15%;
+}
